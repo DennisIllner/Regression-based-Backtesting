@@ -1,6 +1,7 @@
 # Regression-based-Backtesting
 
 #The following code was written for my bachelors thesis on "Regression-based Backtesting of Volatility Forecasts".
+
 #In this work we evaluate and compare forecast optimality tests for MZ regressions via Backtesting when performing volatility forecasts with parametric forecast models
 #Our focus in this work was on the classic Mincer-Zarnowitz (MZ) regression and its extensions, which involve the transformation of both dependent and independent variables.
 
