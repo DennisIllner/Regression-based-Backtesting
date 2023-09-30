@@ -7,6 +7,8 @@
 
 #In the MZ regression, the variable of interest - in our case, volatility - is regressed against a constant and the forecasted value. After conducting these regressions, #various MZ tests for forecast optimality can be applied. In our work, we considered three different tests:
 
-#1.Classic MZ test
-#2.Global F-test (which does not consider the intercept)
-#3.F-test that includes the intercept.
+1. Classic MZ test
+
+2. Global F-test (which does not consider the intercept)
+
+3. F-test that includes the intercept.
